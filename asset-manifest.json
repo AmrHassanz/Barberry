@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Barberry/static/css/main.3f4ea289.css",
-    "main.js": "/Barberry/static/js/main.ee116bff.js",
+    "main.css": "/Barberry/static/css/main.d00767b1.css",
+    "main.js": "/Barberry/static/js/main.0e27e28c.js",
     "static/media/fa-solid-900.ttf": "/Barberry/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
     "static/media/fa-brands-400.ttf": "/Barberry/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
     "static/media/fa-solid-900.woff2": "/Barberry/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
@@ -28,11 +28,11 @@
     "static/media/fa-v4compatibility.ttf": "/Barberry/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
     "static/media/fa-v4compatibility.woff2": "/Barberry/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/Barberry/index.html",
-    "main.3f4ea289.css.map": "/Barberry/static/css/main.3f4ea289.css.map",
-    "main.ee116bff.js.map": "/Barberry/static/js/main.ee116bff.js.map"
+    "main.d00767b1.css.map": "/Barberry/static/css/main.d00767b1.css.map",
+    "main.0e27e28c.js.map": "/Barberry/static/js/main.0e27e28c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f4ea289.css",
-    "static/js/main.ee116bff.js"
+    "static/css/main.d00767b1.css",
+    "static/js/main.0e27e28c.js"
   ]
 }
